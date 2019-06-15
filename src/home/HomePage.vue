@@ -1,5 +1,5 @@
 <template>
- <div class="home">
+  <div class="home">
     <div>
       <img class="robot" src="../assets/robot-home.png"  aria-hidden="true" />
     </div>
